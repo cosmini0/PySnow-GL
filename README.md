@@ -1,6 +1,6 @@
 # 🎮 PySnow-GL
 
-### A Winter Wonderland in OpenGL and Python
+### A 3D Winter Simulation in OpenGL and Python
 
 ![PySnow-GL Screenshot](images/OpenGL.png)
 
